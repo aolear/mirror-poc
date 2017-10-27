@@ -1,7 +1,7 @@
 # appdev-tsa-preexercise
 This repository contains the instructions and files for the Blue Chip App Dev TSA pre-exercise.
 
-## Prompt
+## Instructions
 
 ### Reference Files
 

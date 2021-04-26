@@ -27,3 +27,4 @@ on a web page.
 - Entity Framework can be used to connect and read from the mdf database
 - MVC or a client-side framework (i.e. KnockoutJS, Angular, etc) can be used for displaying the data
 - hello
+- more stuffff
